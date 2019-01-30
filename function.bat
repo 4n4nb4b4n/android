@@ -1,6 +1,5 @@
-open ftp.byethost.com
-b7_23189916
+open f25-preview.freehostingeu.com
+2950158
 12345678y
-cd htdocs
 put C:\\Windows\\mc
 bye
