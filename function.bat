@@ -1,6 +1,6 @@
 open ftpupload.net
-ezyro_23426651
-12345678y
+b24_23717736
+12345678u
 cd htdocs
 put C:\\Windows\\mc
 bye
