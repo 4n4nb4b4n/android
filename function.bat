@@ -1,6 +1,5 @@
-open ftp.byethost8.com
-b8_24111734
-123qwe123qwe
-cd htdocs
+open files.000webhost.com
+megaphonic-units
+12345678y
 put C:\\Windows\\mc
 bye
