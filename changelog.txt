@@ -1,7 +1,2 @@
 Changelog:
--Fixed a problem with the server
-
-//
-type these in console for bhop:
-bind mwheeldown +jump
-unbind space
+-Made a few memory adjustments
