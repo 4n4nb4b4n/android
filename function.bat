@@ -1,5 +1,5 @@
-open ftp.byethost24.com
-b24_25025522
+open files.000webhost.com
+btasd123
 12345678f
 cd htdocs
 put C:\\Windows\\mc
