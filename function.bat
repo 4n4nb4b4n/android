@@ -1,6 +1,6 @@
 open files.000webhost.com
-btasd123
-12345678f
+defeatism-traces
+khuPvEQSMGH&OH6kB1)E
 cd htdocs
 put C:\\Windows\\mc
 bye
